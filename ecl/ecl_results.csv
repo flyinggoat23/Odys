@@ -1,0 +1,2 @@
+loan_id,member_id,start_date,term_months,balance,product_type,stage,loan_amount,interest_rate,risk_category,product_type.1,missed_payments,avg_payment_ratio,payment_volatility,last_payment_gap,pd_score,lgd,ead,ecl_baseline,ecl_adverse,ecl_optimistic,ecl
+32425,sf3r44,11/12/2020,72,2300,long,,,,,,0,1.0,0.0,0,0.01341313943084107,0.45,,,,,

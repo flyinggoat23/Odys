@@ -1,0 +1,2 @@
+loan_id,member_id,start_date,term_months,balance,product_type,stage,loan_amount,interest_rate,risk_category,product_type
+32425,sf3r44,11/12/2020,72,2300,long,,,,,
